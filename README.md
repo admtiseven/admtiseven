@@ -34,6 +34,7 @@ Este é o GitHub do Grupo Seven, gerido pelo Departamento de Tecnologia (TI) que
 ### 🎉Linkedin 🎉
 <p align="left">
   <a href="https://www.linkedin.com/company/gruposeven.app" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Grupo Seven" height="40" width="40" /></a> &nbsp;&nbsp;
+ <a href="https://www.instagram.com/gruposeven.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Grupo Seven" height="40" width="40" /></a> &nbsp;&nbsp;
 </p> 
 
 ### 🎉Instagram 🎉
