@@ -10,13 +10,13 @@ Evoluir e inovar sempre com eficácia e transparência.
 Vencer todos desafios e contribuir ativamente no desenvolvimento do mundo.
 
 ### VALORES
-1- Respeito
-2- Alta Performance
-3- Inovação
-4- Formação de Pessoas
-5- Cooperação
-6- Gestão de custos
-7- Compliance
+- Respeito
+- Alta Performance
+- Inovação
+- Formação de Pessoas
+- Cooperação
+- Gestão de custos
+- Compliance
 
 
 ### NOSSA HISTÓRIA
