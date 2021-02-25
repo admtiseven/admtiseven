@@ -29,11 +29,26 @@ Estar seguro é ter com quem contar
 
 ### Tecnologia
 
-Olá pessoal, este é o GitHub do Grupo Seven, gerido pelo Departamento de Tecnologia (TI) que é responsável por toda parte de sistemas, tecnologia, inovação e aplicativos do Grupo. Seja bem vindo!
+Este é o GitHub do Grupo Seven, gerido pelo Departamento de Tecnologia (TI) que é responsável por toda parte de sistemas, tecnologia, inovação e aplicativos do Grupo. Seja bem vindo!
  
 ### 🎉Linkedin 🎉
 <p align="left">
-  <a href="https://www.linkedin.com/company/gruposeven.app/mycompany/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Grupo Seven" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/company/gruposeven.app" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Grupo Seven" height="40" width="40" /></a> &nbsp;&nbsp;
+</p> 
+
+### 🎉Instagram 🎉
+<p align="left">
+  <a href="https://www.instagram.com/gruposeven.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Grupo Seven" height="40" width="40" /></a> &nbsp;&nbsp;
+</p> 
+
+### 🎉Facebook 🎉
+<p align="left">
+  <a href="https://www.facebook.com/gruposevenapp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Grupo Seven" height="40" width="40" /></a> &nbsp;&nbsp;
+</p> 
+
+### 🎉Youtube 🎉
+<p align="left">
+  <a href="https://www.youtube.com/channel/UCgWmMekDPEUTpk30pkYqKrQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Grupo Seven" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 
 ##
